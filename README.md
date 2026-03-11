@@ -86,10 +86,12 @@ Interact with filters, visuals, and hover over charts to uncover hidden insights
 📌 A large majority of content consists of **TV Shows**, highlighting Amazon's focus on episodic content.
 
 ## 👩‍💻 About the Author
-**Hanumanthu Jyothsna**  
+**KAVYASHREE SAIKIA**  
 💡 Data Science Enthusiast | Power BI Developer
-![Dashboard filers Screenshot](dashboard_filters.png)
-![Entire Dashboard Screenshot](entire_dashboard.png)
+![Dashboard filers Screenshot]<img width="1562" height="870" alt="image" src="https://github.com/user-attachments/assets/bca3807d-80c2-4618-bd26-22fcc4d19858" />
+
+![Entire Dashboard Screenshot]<img width="1600" height="952" alt="image" src="https://github.com/user-attachments/assets/2528ff96-9cc9-49f1-a4d6-2829b8a73d40" />
+
 
 
 
